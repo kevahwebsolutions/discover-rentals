@@ -5,6 +5,7 @@
     margin: 8px 3px 12px;
 }
 #color-style-switcher {
+    display: none; /* Hide the color switcher */
     background: #fff;
     box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.14);
     left: -145px;
